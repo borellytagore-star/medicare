@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20IoT-7C3AED?style=for-the-badge&labelColor=111827"/>
 <img src="https://img.shields.io/badge/Graduating-2027-6366F1?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/CGPA-7.48-8B5CF6?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/CGPA-8.0-8B5CF6?style=for-the-badge&labelColor=111827"/>
 <img src="https://img.shields.io/badge/Location-Telangana%2C%20India-4F46E5?style=for-the-badge&labelColor=111827"/>
 
 <br/><br/>
